@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.489b8dcc.css",
+    "main.js": "/portfolio/static/js/main.b804b41f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/portfolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.04092111060fdb829328.pdf",
+    "static/media/avatar-1.png": "/portfolio/static/media/avatar-1.a1a882c33903d597b2fc.png",
+    "static/media/work-4.svg": "/portfolio/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
+    "static/media/work-3.svg": "/portfolio/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
+    "static/media/work-1.svg": "/portfolio/static/media/work-1.bebc0ee30ea8dd5325cfeb0fe8f2615b.svg",
+    "static/media/work-6.svg": "/portfolio/static/media/work-6.e53b868f21628c547fd12d76c5b599db.svg",
+    "static/media/work-5.svg": "/portfolio/static/media/work-5.d7139045fa5cd7bea4b9807b31919a00.svg",
+    "static/media/work-2.svg": "/portfolio/static/media/work-2.2b1987b3b6f51b87b2538a61b31a43d4.svg",
+    "static/media/service-2.svg": "/portfolio/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/dots-bg.svg": "/portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/portfolio/index.html",
+    "main.489b8dcc.css.map": "/portfolio/static/css/main.489b8dcc.css.map",
+    "main.b804b41f.js.map": "/portfolio/static/js/main.b804b41f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/portfolio/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.489b8dcc.css",
+    "static/js/main.b804b41f.js"
+  ]
+}
